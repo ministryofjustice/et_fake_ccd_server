@@ -1,8 +1,6 @@
-# EtFakeCcdServer
+# Et Fake Ccd Server
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/et_fake_ccd_server`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This server replicates some of Core Case Data (CCD) API functionality for test purposes
 
 ## Installation
 
@@ -22,7 +20,16 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+### Using Webmock (Internal to your test suite)
+
+```ruby
+
+  stub_request(:any, /fakeservice\.com/).to_rack(EtFakeCcdServer::Server)
+
+```
+
+This will mean that any requests to fakeservice.com will go to the fake ccd server
+
 
 ## Development
 
