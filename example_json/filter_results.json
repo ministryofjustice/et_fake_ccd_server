@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1544608104318770,
+    "jurisdiction": "PUBLICLAW",
+    "state": "1_Initiation",
+    "case_type_id": "TRIB_MVP_3_TYPE",
+    "created_date": "2018-12-12T09:48:24.369",
+    "last_modified": "2018-12-12T09:48:24.373",
+    "security_classification": "PUBLIC",
+    "case_data": {
+      "caseNote": "sdsd",
+      "feeGroupReference": "2220000000100",
+      "representedType": {
+        "if_represented": "No"
+      },
+      "claimantType": {
+        "claimant_title": "Mr",
+        "claimant_gender": "",
+        "claimant_initials": null,
+        "claimant_addressUK": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "claimant_last_name": "Taylor",
+        "claimant_fax_number": null,
+        "claimant_first_name": "Gary",
+        "claimant_phone_number": null,
+        "claimant_date_of_birth": null,
+        "claimant_email_address": null,
+        "claimant_mobile_number": null,
+        "claimant_contact_preference": ""
+      },
+      "receiptDate": "2017-01-01",
+      "respondentCollection": [],
+      "caseAssignee": "Bristol",
+      "respondentType": {
+        "respondent_fax": null,
+        "respondent_name": null,
+        "respondent_email": null,
+        "respondent_phone1": null,
+        "respondent_phone2": null,
+        "respondent_address": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "respondent_contact_preference": ""
+      },
+      "caseType": "Single"
+    },
+    "data_classification": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    },
+    "after_submit_callback_response": null,
+    "callback_response_status_code": null,
+    "callback_response_status": null,
+    "delete_draft_response_status_code": null,
+    "delete_draft_response_status": null,
+    "security_classifications": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    }
+  },
+  {
+    "id": 1544608429171417,
+    "jurisdiction": "PUBLICLAW",
+    "state": "1_Initiation",
+    "case_type_id": "TRIB_MVP_3_TYPE",
+    "created_date": "2018-12-12T09:53:49.181",
+    "last_modified": "2018-12-12T09:53:49.181",
+    "security_classification": "PUBLIC",
+    "case_data": {
+      "caseNote": "sdsd",
+      "feeGroupReference": "2220000000100",
+      "representedType": {
+        "if_represented": "No"
+      },
+      "claimantType": {
+        "claimant_title": "Mr",
+        "claimant_gender": "",
+        "claimant_initials": null,
+        "claimant_addressUK": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "claimant_last_name": "Taylor",
+        "claimant_fax_number": null,
+        "claimant_first_name": "Gary",
+        "claimant_phone_number": null,
+        "claimant_date_of_birth": null,
+        "claimant_email_address": null,
+        "claimant_mobile_number": null,
+        "claimant_contact_preference": ""
+      },
+      "receiptDate": "2017-01-01",
+      "respondentCollection": [],
+      "caseAssignee": "Bristol",
+      "respondentType": {
+        "respondent_fax": null,
+        "respondent_name": null,
+        "respondent_email": null,
+        "respondent_phone1": null,
+        "respondent_phone2": null,
+        "respondent_address": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "respondent_contact_preference": ""
+      },
+      "caseType": "Single"
+    },
+    "data_classification": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    },
+    "after_submit_callback_response": null,
+    "callback_response_status_code": null,
+    "callback_response_status": null,
+    "delete_draft_response_status_code": null,
+    "delete_draft_response_status": null,
+    "security_classifications": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    }
+  },
+  {
+    "id": 1544608482379105,
+    "jurisdiction": "PUBLICLAW",
+    "state": "1_Initiation",
+    "case_type_id": "TRIB_MVP_3_TYPE",
+    "created_date": "2018-12-12T09:54:42.37",
+    "last_modified": "2018-12-12T09:54:42.371",
+    "security_classification": "PUBLIC",
+    "case_data": {
+      "caseNote": "sdsd",
+      "feeGroupReference": "2220000000100",
+      "representedType": {
+        "if_represented": "No"
+      },
+      "claimantType": {
+        "claimant_title": "Mr",
+        "claimant_gender": "",
+        "claimant_initials": null,
+        "claimant_addressUK": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "claimant_last_name": "Taylor",
+        "claimant_fax_number": null,
+        "claimant_first_name": "Gary",
+        "claimant_phone_number": null,
+        "claimant_date_of_birth": null,
+        "claimant_email_address": null,
+        "claimant_mobile_number": null,
+        "claimant_contact_preference": ""
+      },
+      "receiptDate": "2017-01-01",
+      "respondentCollection": [],
+      "caseAssignee": "Bristol",
+      "respondentType": {
+        "respondent_fax": null,
+        "respondent_name": null,
+        "respondent_email": null,
+        "respondent_phone1": null,
+        "respondent_phone2": null,
+        "respondent_address": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "respondent_contact_preference": ""
+      },
+      "caseType": "Single"
+    },
+    "data_classification": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    },
+    "after_submit_callback_response": null,
+    "callback_response_status_code": null,
+    "callback_response_status": null,
+    "delete_draft_response_status_code": null,
+    "delete_draft_response_status": null,
+    "security_classifications": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    }
+  },
+  {
+    "id": 1544608535710462,
+    "jurisdiction": "PUBLICLAW",
+    "state": "1_Initiation",
+    "case_type_id": "TRIB_MVP_3_TYPE",
+    "created_date": "2018-12-12T09:55:35.763",
+    "last_modified": "2018-12-12T09:55:35.764",
+    "security_classification": "PUBLIC",
+    "case_data": {
+      "caseNote": "sdsd",
+      "feeGroupReference": "2220000000100",
+      "representedType": {
+        "if_represented": "No"
+      },
+      "claimantType": {
+        "claimant_title": "Mr",
+        "claimant_gender": "",
+        "claimant_initials": null,
+        "claimant_addressUK": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "claimant_last_name": "Taylor",
+        "claimant_fax_number": null,
+        "claimant_first_name": "Gary",
+        "claimant_phone_number": null,
+        "claimant_date_of_birth": null,
+        "claimant_email_address": null,
+        "claimant_mobile_number": null,
+        "claimant_contact_preference": ""
+      },
+      "receiptDate": "2017-01-01",
+      "respondentCollection": [],
+      "caseAssignee": "Bristol",
+      "respondentType": {
+        "respondent_fax": null,
+        "respondent_name": null,
+        "respondent_email": null,
+        "respondent_phone1": null,
+        "respondent_phone2": null,
+        "respondent_address": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "respondent_contact_preference": ""
+      },
+      "caseType": "Single"
+    },
+    "data_classification": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    },
+    "after_submit_callback_response": null,
+    "callback_response_status_code": null,
+    "callback_response_status": null,
+    "delete_draft_response_status_code": null,
+    "delete_draft_response_status": null,
+    "security_classifications": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    }
+  },
+  {
+    "id": 1544608585471858,
+    "jurisdiction": "PUBLICLAW",
+    "state": "1_Initiation",
+    "case_type_id": "TRIB_MVP_3_TYPE",
+    "created_date": "2018-12-12T09:56:25.494",
+    "last_modified": "2018-12-12T09:56:25.494",
+    "security_classification": "PUBLIC",
+    "case_data": {
+      "caseNote": "sdsd",
+      "feeGroupReference": "2220000000100",
+      "representedType": {
+        "if_represented": "No"
+      },
+      "claimantType": {
+        "claimant_title": "Mr",
+        "claimant_gender": "",
+        "claimant_initials": null,
+        "claimant_addressUK": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "claimant_last_name": "Taylor",
+        "claimant_fax_number": null,
+        "claimant_first_name": "Gary",
+        "claimant_phone_number": null,
+        "claimant_date_of_birth": null,
+        "claimant_email_address": null,
+        "claimant_mobile_number": null,
+        "claimant_contact_preference": ""
+      },
+      "receiptDate": "2017-01-01",
+      "respondentCollection": [],
+      "caseAssignee": "Bristol",
+      "respondentType": {
+        "respondent_fax": null,
+        "respondent_name": null,
+        "respondent_email": null,
+        "respondent_phone1": null,
+        "respondent_phone2": null,
+        "respondent_address": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "respondent_contact_preference": ""
+      },
+      "caseType": "Single"
+    },
+    "data_classification": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    },
+    "after_submit_callback_response": null,
+    "callback_response_status_code": null,
+    "callback_response_status": null,
+    "delete_draft_response_status_code": null,
+    "delete_draft_response_status": null,
+    "security_classifications": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    }
+  },
+  {
+    "id": 1544608617368148,
+    "jurisdiction": "PUBLICLAW",
+    "state": "1_Initiation",
+    "case_type_id": "TRIB_MVP_3_TYPE",
+    "created_date": "2018-12-12T09:56:57.31",
+    "last_modified": "2018-12-12T09:56:57.31",
+    "security_classification": "PUBLIC",
+    "case_data": {
+      "caseNote": "sdsd",
+      "feeGroupReference": "2220000000100",
+      "representedType": {
+        "if_represented": "No"
+      },
+      "claimantType": {
+        "claimant_title": "Mr",
+        "claimant_gender": "",
+        "claimant_initials": null,
+        "claimant_addressUK": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "claimant_last_name": "Taylor",
+        "claimant_fax_number": null,
+        "claimant_first_name": "Gary",
+        "claimant_phone_number": null,
+        "claimant_date_of_birth": null,
+        "claimant_email_address": null,
+        "claimant_mobile_number": null,
+        "claimant_contact_preference": ""
+      },
+      "receiptDate": "2017-01-01",
+      "respondentCollection": [],
+      "caseAssignee": "Bristol",
+      "respondentType": {
+        "respondent_fax": null,
+        "respondent_name": null,
+        "respondent_email": null,
+        "respondent_phone1": null,
+        "respondent_phone2": null,
+        "respondent_address": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "respondent_contact_preference": ""
+      },
+      "caseType": "Single"
+    },
+    "data_classification": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    },
+    "after_submit_callback_response": null,
+    "callback_response_status_code": null,
+    "callback_response_status": null,
+    "delete_draft_response_status_code": null,
+    "delete_draft_response_status": null,
+    "security_classifications": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    }
+  },
+  {
+    "id": 1544611660645990,
+    "jurisdiction": "PUBLICLAW",
+    "state": "1_Initiation",
+    "case_type_id": "TRIB_MVP_3_TYPE",
+    "created_date": "2018-12-12T10:47:40.66",
+    "last_modified": "2018-12-12T10:47:40.66",
+    "security_classification": "PUBLIC",
+    "case_data": {
+      "caseNote": "sdsd",
+      "feeGroupReference": "2220000000100",
+      "representedType": {
+        "if_represented": "No"
+      },
+      "claimantType": {
+        "claimant_title": "Mr",
+        "claimant_gender": "",
+        "claimant_initials": null,
+        "claimant_addressUK": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "claimant_last_name": "Taylor",
+        "claimant_fax_number": null,
+        "claimant_first_name": "Gary",
+        "claimant_phone_number": null,
+        "claimant_date_of_birth": null,
+        "claimant_email_address": null,
+        "claimant_mobile_number": null,
+        "claimant_contact_preference": ""
+      },
+      "receiptDate": "2017-01-01",
+      "respondentCollection": [],
+      "caseAssignee": "Bristol",
+      "respondentType": {
+        "respondent_fax": null,
+        "respondent_name": null,
+        "respondent_email": null,
+        "respondent_phone1": null,
+        "respondent_phone2": null,
+        "respondent_address": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "respondent_contact_preference": ""
+      },
+      "caseType": "Single"
+    },
+    "data_classification": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    },
+    "after_submit_callback_response": null,
+    "callback_response_status_code": null,
+    "callback_response_status": null,
+    "delete_draft_response_status_code": null,
+    "delete_draft_response_status": null,
+    "security_classifications": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    }
+  },
+  {
+    "id": 1544618394329338,
+    "jurisdiction": "PUBLICLAW",
+    "state": "1_Initiation",
+    "case_type_id": "TRIB_MVP_3_TYPE",
+    "created_date": "2018-12-12T12:39:54.377",
+    "last_modified": "2018-12-12T12:39:54.377",
+    "security_classification": "PUBLIC",
+    "case_data": {
+      "caseNote": "sdsd",
+      "feeGroupReference": "2220000000100",
+      "representedType": {
+        "if_represented": "No"
+      },
+      "claimantType": {
+        "claimant_title": "Mr",
+        "claimant_gender": "",
+        "claimant_initials": null,
+        "claimant_addressUK": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "claimant_last_name": "Taylor",
+        "claimant_fax_number": null,
+        "claimant_first_name": "Gary",
+        "claimant_phone_number": null,
+        "claimant_date_of_birth": null,
+        "claimant_email_address": null,
+        "claimant_mobile_number": null,
+        "claimant_contact_preference": ""
+      },
+      "receiptDate": "2017-01-01",
+      "respondentCollection": [],
+      "caseAssignee": "Bristol",
+      "respondentType": {
+        "respondent_fax": null,
+        "respondent_name": null,
+        "respondent_email": null,
+        "respondent_phone1": null,
+        "respondent_phone2": null,
+        "respondent_address": {
+          "County": null,
+          "Country": null,
+          "PostCode": null,
+          "PostTown": null,
+          "AddressLine1": null,
+          "AddressLine2": null,
+          "AddressLine3": null
+        },
+        "respondent_contact_preference": ""
+      },
+      "caseType": "Single"
+    },
+    "data_classification": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    },
+    "after_submit_callback_response": null,
+    "callback_response_status_code": null,
+    "callback_response_status": null,
+    "delete_draft_response_status_code": null,
+    "delete_draft_response_status": null,
+    "security_classifications": {
+      "caseNote": "PUBLIC",
+      "feeGroupReference": "PUBLIC",
+      "representedType": {
+        "value": {
+          "if_represented": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "claimantType": {
+        "value": {
+          "claimant_title": "PUBLIC",
+          "claimant_gender": "PUBLIC",
+          "claimant_initials": "PUBLIC",
+          "claimant_addressUK": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "claimant_last_name": "PUBLIC",
+          "claimant_fax_number": "PUBLIC",
+          "claimant_first_name": "PUBLIC",
+          "claimant_phone_number": "PUBLIC",
+          "claimant_date_of_birth": "PUBLIC",
+          "claimant_email_address": "PUBLIC",
+          "claimant_mobile_number": "PUBLIC",
+          "claimant_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "receiptDate": "PUBLIC",
+      "respondentCollection": {
+        "value": [],
+        "classification": "PUBLIC"
+      },
+      "caseAssignee": "PUBLIC",
+      "respondentType": {
+        "value": {
+          "respondent_fax": "PUBLIC",
+          "respondent_name": "PUBLIC",
+          "respondent_email": "PUBLIC",
+          "respondent_phone1": "PUBLIC",
+          "respondent_phone2": "PUBLIC",
+          "respondent_address": {
+            "value": {
+              "County": "PUBLIC",
+              "Country": "PUBLIC",
+              "PostCode": "PUBLIC",
+              "PostTown": "PUBLIC",
+              "AddressLine1": "PUBLIC",
+              "AddressLine2": "PUBLIC",
+              "AddressLine3": "PUBLIC"
+            },
+            "classification": "PUBLIC"
+          },
+          "respondent_contact_preference": "PUBLIC"
+        },
+        "classification": "PUBLIC"
+      },
+      "caseType": "PUBLIC"
+    }
+  }
+]
